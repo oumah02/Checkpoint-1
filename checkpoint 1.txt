@@ -1,0 +1,29 @@
+Section 1 : Connaissances générales
+
+Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte d'Internet ?
+Le développement web consiste à créer et maintenir des sites web ou des applications web. Il englobe tout, de la conception de l'interface utilisateur à l'intégration de bases de données. C'est essentiel sur Internet car c'est ce qui permet aux utilisateurs d'interagir avec des sites, de consommer des informations et d'utiliser des services en ligne, ce qui contribue à la transformation digitale mondiale.
+
+Section 2 : Connaissances HTML
+
+Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et quel est son principal objectif dans le développement web ?
+Oui, HTML signifie HyperText Markup Language. Il s'agit du langage standard utilisé pour créer la structure de base des pages web. Il permet de définir les différents éléments d'une page comme les titres, les paragraphes, les images et les liens.
+
+Section 3 : Familiarité avec CSS
+
+Êtes-vous familier avec CSS ? Si oui, expliquez brièvement à quoi sert CSS dans le développement web.
+Oui, CSS (Cascading Style Sheets) est utilisé pour styliser et mettre en page les éléments HTML. Il permet de contrôler des aspects tels que les couleurs, les polices, les marges, les espacements, et d'assurer une mise en page responsive, ce qui améliore l'apparence visuelle des sites web.
+
+Section 4 : JavaScript et son importance
+
+Avez-vous entendu parler de JavaScript ? Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs ?
+Oui, JavaScript est un langage de programmation utilisé pour rendre les sites web interactifs. Contrairement à HTML et CSS qui gèrent la structure et l'apparence, JavaScript permet d'ajouter des fonctionnalités dynamiques, comme des animations, des formulaires interactifs, ou encore des jeux de données en temps réel. Il est indispensable pour créer des expériences utilisateurs engageantes.
+
+Section 5 : Introduction à React et Node.js
+
+Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à quoi React et Node.js sont généralement utilisés dans le développement web.
+Oui, React est une bibliothèque JavaScript utilisée pour construire des interfaces utilisateurs interactives, souvent pour des applications monopage. Elle permet de créer des composants réutilisables. Node.js, quant à lui, est un environnement d'exécution JavaScript côté serveur. Il permet de créer des applications web performantes, notamment des API, et gère l'interaction avec des bases de données ou des systèmes externes.
+
+Section 6 : Question bonus
+
+Pourquoi voulez-vous apprendre le développement web, et qu'espérez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+Je veux apprendre le développement web parce que je suis passionnée par la création de solutions numériques qui peuvent aider à résoudre des problèmes réels. En maîtrisant HTML, CSS, JavaScript, React, et Node.js, j'espère être capable de créer des sites web interactifs et des applications complètes qui offrent une expérience utilisateur fluide et innovante. À terme, j'aimerais contribuer à des projets de développement ou créer mes propres applications.
